@@ -2,14 +2,14 @@
 
 ## Status of this memo
 
-This document specify the Citizen.io organization protocol for human beings, and requests discussion and suggestions for improvements.
+This document specify the Citizen.io organization protocol for human beings. It also requests discussion and suggestions for improvements.
 The standard used is a direct implementation of the "Internet Official Protocol Standards". (STD 1)
 Distribution of this memo is unlimited.
 
 ## Abstract
 
 The Citizen.io Organization Protocol is an organization layer above the individual that allows every organization pattern implementation.
-It is a limitless, modular, protocol which can be used to build a decision process between 2 people up to replace a political process that involves a country.
+It is a limitless, modular, protocol. It can be used to build a decision process between 2 people, up to replace a political process that involves the whole human civilization.
 
 This protocol isn't used so far, the code implementation still in discussion.
 
