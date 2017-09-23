@@ -29,6 +29,12 @@ Starting from the premise that the human nature allows any individual to accept 
 
 ### 1.2 Purpose
 
+Allow and ease human citizens to regroup themselves into groups. Groups must be able to represent values like social ones (friends, family, company, ...), like ideological ones (religion, politics, ...), like geographical ones (city, country, world, ...).
+
+Allow and ease establishment and use of tasks and resolving processes into and between groups. Allow and ease decision taking as tasks and processes.
+
 ### 1.3 Requirements
+
+Citizens grouping must not be exclusive; eg. a citizen must be allowed to join different political groups representing the same geographical area.
 
 ### 1.4 Terminology
